@@ -1,7 +1,7 @@
 #Create directorys for a show with a dumb ammount of discs
 
 
-$dir= "E:\Video\one_piece\box_"
+$dir= "G:\Video\one_piece\box_"
 $box= Read-host -Prompt 'How many Boxes: '
 $discs= Read-Host -Prompt 'How many Discs: '
 
